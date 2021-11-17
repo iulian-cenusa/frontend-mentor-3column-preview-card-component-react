@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Screenshot](./Screen.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/iulian-cenusa/frontend-mentor-3column-preview-card-component-react)
+- Live Site URL: [Vercel](https://frontend-mentor-3column-preview-card-component-react.vercel.app/)
 
 ## My process
 
