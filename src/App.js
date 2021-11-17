@@ -22,8 +22,8 @@ function App() {
       </main>
       <footer>
         <div class="attribution">
-          <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a></p>
-          <p>Coded by <a href="https://github.com/iulian-cenusa">Iulian Cenuşă</a></p>
+          <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">Frontend Mentor</a></p>
+          <p>Coded by <a href="https://github.com/iulian-cenusa" target="_blank" rel="noreferrer">Iulian Cenuşă</a></p>
         </div></footer>
     </>
   );
