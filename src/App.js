@@ -16,7 +16,6 @@ function App() {
   return (
     <>
       <main>
-        <h1></h1>
         <Component title="Sedans" description={descriptions[0]} color={colors[0]} image={images[0]} />
         <Component title="SUVs" description={descriptions[1]} color={colors[1]} image={images[1]} />
         <Component title="Luxury" description={descriptions[2]} color={colors[2]} image={images[2]} />
