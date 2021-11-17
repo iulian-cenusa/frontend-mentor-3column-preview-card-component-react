@@ -21,7 +21,7 @@ function App() {
         <Component title="Luxury" description={descriptions[2]} color={colors[2]} image={images[2]} />
       </main>
       <footer>
-        <div class="attribution">
+        <div className="attribution">
           <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">Frontend Mentor</a></p>
           <p>Coded by <a href="https://github.com/iulian-cenusa" target="_blank" rel="noreferrer">Iulian Cenuşă</a></p>
         </div></footer>
